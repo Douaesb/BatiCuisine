@@ -46,3 +46,84 @@
 2024-09-24 17:14:57 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 122
 2024-09-24 17:14:57 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 72 updated successfully.
 2024-09-24 17:14:57 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 72: Profit Margin = 0.0, Total Cost = 2220.0
+2024-09-26 20:18:42 INFO  o.b.serviceImpl.ClientServiceImpl - Client name 'douae' is unique
+2024-09-26 20:18:42 INFO  o.b.serviceImpl.ClientServiceImpl - Client name 'douae' is unique
+2024-09-26 20:19:02 INFO  o.b.serviceImpl.ClientServiceImpl - Client added successfully: douae
+2024-09-26 20:19:09 INFO  o.b.r.ProjectRepositoryImpl - Project added with ID: 73
+2024-09-26 20:19:09 INFO  o.b.serviceImpl.ProjectServiceImpl - Project added: projet1
+2024-09-26 20:19:18 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 123
+2024-09-26 20:19:42 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 124
+2024-09-26 20:19:55 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 125
+2024-09-26 20:20:14 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 126
+2024-09-26 20:20:23 INFO  o.b.serviceImpl.ProjectServiceImpl - Applying tax and profit margin for project: projet1
+2024-09-26 20:20:23 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 123
+2024-09-26 20:20:23 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 124
+2024-09-26 20:20:23 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 125
+2024-09-26 20:20:23 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 126
+2024-09-26 20:20:23 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 73 updated successfully.
+2024-09-26 20:20:23 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 73: Profit Margin = 15.0, Total Cost = 6201.599999999999
+2024-09-26 20:21:39 INFO  o.b.serviceImpl.ClientServiceImpl - Client name 'lami' is unique
+2024-09-26 20:21:39 INFO  o.b.serviceImpl.ClientServiceImpl - Client name 'lami' is unique
+2024-09-26 20:22:01 INFO  o.b.serviceImpl.ClientServiceImpl - Client added successfully: lami
+2024-09-26 20:22:06 INFO  o.b.r.ProjectRepositoryImpl - Project added with ID: 74
+2024-09-26 20:22:06 INFO  o.b.serviceImpl.ProjectServiceImpl - Project added: projet2
+2024-09-26 20:22:17 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 127
+2024-09-26 20:22:28 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 128
+2024-09-26 20:22:42 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 129
+2024-09-26 20:22:49 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 130
+2024-09-26 20:22:58 INFO  o.b.serviceImpl.ProjectServiceImpl - Applying tax and profit margin for project: projet2
+2024-09-26 20:22:58 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 127
+2024-09-26 20:22:58 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 128
+2024-09-26 20:22:58 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 129
+2024-09-26 20:22:58 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 130
+2024-09-26 20:22:58 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 74 updated successfully.
+2024-09-26 20:22:58 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 74: Profit Margin = 13.0, Total Cost = 19930.375
+2024-09-26 20:23:31 INFO  o.b.serviceImpl.ClientServiceImpl - Client name 'nour' is unique
+2024-09-26 20:23:31 INFO  o.b.serviceImpl.ClientServiceImpl - Client name 'nour' is unique
+2024-09-26 20:24:06 INFO  o.b.serviceImpl.ClientServiceImpl - Client added successfully: nour
+2024-09-26 20:24:11 INFO  o.b.r.ProjectRepositoryImpl - Project added with ID: 75
+2024-09-26 20:24:11 INFO  o.b.serviceImpl.ProjectServiceImpl - Project added: projet3
+2024-09-26 20:24:22 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 131
+2024-09-26 20:24:30 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 132
+2024-09-26 20:24:44 INFO  o.b.serviceImpl.ProjectServiceImpl - Applying tax and profit margin for project: projet3
+2024-09-26 20:24:44 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 131
+2024-09-26 20:24:44 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 132
+2024-09-26 20:24:44 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 75 updated successfully.
+2024-09-26 20:24:44 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 75: Profit Margin = 15.0, Total Cost = 2855.6
+2024-09-26 20:25:16 INFO  o.b.r.ProjectRepositoryImpl - Project added with ID: 76
+2024-09-26 20:25:16 INFO  o.b.serviceImpl.ProjectServiceImpl - Project added: projetdouae
+2024-09-26 20:25:32 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 133
+2024-09-26 20:25:48 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 134
+2024-09-26 20:26:03 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 135
+2024-09-26 20:26:16 INFO  o.b.serviceImpl.ProjectServiceImpl - Applying tax and profit margin for project: projetdouae
+2024-09-26 20:26:16 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 133
+2024-09-26 20:26:16 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 134
+2024-09-26 20:26:16 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 135
+2024-09-26 20:26:16 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 76 updated successfully.
+2024-09-26 20:26:16 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 76: Profit Margin = 0.0, Total Cost = 2762.08
+2024-09-26 20:27:19 INFO  o.b.r.ProjectRepositoryImpl - Project added with ID: 77
+2024-09-26 20:27:19 INFO  o.b.serviceImpl.ProjectServiceImpl - Project added: lamipro
+2024-09-26 20:27:34 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 136
+2024-09-26 20:27:56 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 137
+2024-09-26 20:28:10 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 138
+2024-09-26 20:28:23 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 139
+2024-09-26 20:28:34 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 140
+2024-09-26 20:28:54 INFO  o.b.serviceImpl.ProjectServiceImpl - Applying tax and profit margin for project: lamipro
+2024-09-26 20:28:54 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 136
+2024-09-26 20:28:54 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 137
+2024-09-26 20:28:54 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 138
+2024-09-26 20:28:54 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 139
+2024-09-26 20:28:54 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 140
+2024-09-26 20:28:54 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 77 updated successfully.
+2024-09-26 20:28:54 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 77: Profit Margin = 28.0, Total Cost = 6886.4
+2024-09-27 12:02:40 INFO  o.b.r.ProjectRepositoryImpl - Project added with ID: 78
+2024-09-27 12:02:40 INFO  o.b.serviceImpl.ProjectServiceImpl - Project added: renovation
+2024-09-27 12:02:58 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 141
+2024-09-27 12:03:27 INFO  o.b.r.MaterialRepositoryImpl - Inserted Material with ID: 142
+2024-09-27 12:03:45 INFO  o.b.r.LaborRepositoryImpl - Inserted Labor with ID: 143
+2024-09-27 12:03:58 INFO  o.b.serviceImpl.ProjectServiceImpl - Applying tax and profit margin for project: renovation
+2024-09-27 12:03:58 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 141
+2024-09-27 12:03:58 INFO  o.b.r.MaterialRepositoryImpl - Updated tax rate for Material ID: 142
+2024-09-27 12:03:58 INFO  o.b.r.LaborRepositoryImpl - Updated tax rate for Labor ID: 143
+2024-09-27 12:03:58 INFO  o.b.r.ProjectRepositoryImpl - Project with ID 78 updated successfully.
+2024-09-27 12:03:58 INFO  o.b.serviceImpl.ProjectServiceImpl - Updated project with ID 78: Profit Margin = 15.0, Total Cost = 3807.6
